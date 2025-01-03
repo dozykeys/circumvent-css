@@ -1,0 +1,11 @@
+h1 {
+  color: red;
+}
+
+:root {
+  --sky-blue: #98d6ff;
+  --deep-blue: #011367;
+  --mid-blue: #0030ff;
+  --white: #ffffff;
+  ---ash: rgb(0, 9, 51, 0.6);
+}

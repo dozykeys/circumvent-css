@@ -1,0 +1,14 @@
+@import url(global.css);
+
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.small-text {
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 0px;
+  font-family: "Euclid Galactic", sans-serif;
+  color: var(---ash);
+}
