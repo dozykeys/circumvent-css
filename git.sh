@@ -1,0 +1,1 @@
+gitmoji -i && git add . && git commit
