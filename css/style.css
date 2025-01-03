@@ -1,14 +1,33 @@
 @import url(global.css);
 
 * {
-  margin: 0px;
-  padding: 0px;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: var(--font-family);
+}
+
+a {
+  text-decoration: none;
+  color: var(--primary-color);
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
 }
 
 .small-text {
   font-size: 16px;
   line-height: 24px;
-  letter-spacing: 0px;
-  font-family: "Euclid Galactic", sans-serif;
+  letter-spacing: 0;
   color: var(---ash);
 }
